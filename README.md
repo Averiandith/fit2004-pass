@@ -1,2 +1,2 @@
 # fit2004-pass
-pass materials for fit2004 2020 s2
+A repository to hoard PASS materials for Algorithms and data structures (FIT2004) 2020 sem2.
